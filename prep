@@ -1,8 +1,18 @@
 Index:
   1.Risk and Optionality
+  1.1 issues with rNPV
+  1.2 Stochastic process risk indicator 'μ'
+  1.3 extension of the risk neutral valuation--the market price of risk for a variable θ
+  
   2.Uncertainty to Volatility
+  
   3.Lattice tree method
+  discrete optimazation--dynamic programming-stopping time issue
+  Monte carlo simulation
+  
 {Notes: In business, the management team tends to cite the VUCA (Volatility, Uncertainty, Complexity, Ambiguity) Model
 and then ask for corresponding action plans. From this ‘Frame setting’ when I try to study Options and Real Options, I paid
 extra attention to these uncertainty relevant concepts and then dive deeper to the scientific methods.}
 
+NPV is a Yes or No question, real options smoothes it, similar to 'linearrelaxation' between two integers, there're other options: to defer,
+to expand, to contract: early exercise...
